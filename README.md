@@ -60,8 +60,6 @@ search_scrape_summarize/
    - Source URLs
    - Summaries
    - Pros/Cons
-   - Embedded images and tables
-   - Clean keyword section
 
 ```bash
 # Activate virtualenv
